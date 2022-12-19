@@ -6,8 +6,9 @@
 Esta es una calculadora programada en java usando programación orientada a objetos, funciones y encapsulación de variables.
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<p style="display: grid">
+<p style="display: grid;">
 <img style="margin: 0; padding:0" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<br>
 <b>Java</b>
 </p>
 
